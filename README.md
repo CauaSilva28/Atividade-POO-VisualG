@@ -4,6 +4,7 @@ Programa com as atividades passadas em aula no VisualG
 Nós criamos um carácter chamado comb, para chamar as variáveis "A" de álcool e "G" de gasolina.
 Basicamente utilizamos a função "se" para saber se a variável seria "A" ou "G" e dependo do que fosse analisado o programa iria usar os dados de cada variável para completar o que foi pedido, nesse caso teriamos uma conta e se aquilo não acontecesse iria ocorrer outra conta.
 ## Eleição
+Fizemos um programa sobre uma "eleição". Para isso, usamos o looping "enquanto" para repetir uma determinada ação até que uma condição seja atingida.O programa irá solicitar os valores necessários para realizar a tarefa e, em seguida, iniciará o looping enquanto para repetir a ação até que a condição de parada seja alcançada.
 ## Tabuada com "enquanto"
 Demos um valor para "i" que foi igual a 1. Depois usamos a função "enquanto" para fazer a conta, e enquanto o "i<=10" ele faria o número escolhido ser multiplicado por i. No final teriamos a tabuada sobre qualquer número escolhido pelo usuário.
 ## Tabuada com "para"
